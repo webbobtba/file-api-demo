@@ -18,12 +18,12 @@ cd file-api-demo
 npm install
 ```
 
-4. Start parcel:
+4. Start parcel (includes ~2MB uncompressed tailwind build):
 ```js
 npm start
 ```
 
-5. build for production (includes custom tailwind build):
+5. build for production (includes tiny custom tailwind build):
 ```js
 npm run build
 ```
